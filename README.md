@@ -12,7 +12,7 @@
 
 <body>
 
-    <h1>Formation Office 365 - Comprendre tous les différents outils </h1>
+    <h1>Formation Office 365 - Comprendre tous les différents outils</h1>
     <h2>Bienvenue dans Office</h2>
     <p>Besoin de maitriser les outils <bold> office 365 </bold> ? Prenez le temps d'être accompagné par un expert de la suite Office
         365. </p>
@@ -22,15 +22,14 @@
     <p>Découvrez nos formations Office 365, suivez les cours par métier, échangez avec un formateur en direct</p>
     <H2>Word, Excel, Powerpoint, OneNote, OneDrive, Outlook, Teams</H2>
     <h3>Bureautique</h3>
-    <p> cloud mac microsoft office Openoffice traitement de texte apps tableur présentations suite bureautique LibreOffice macos Package Bureautiques Compabilité Suite microsoft office Sharepoint Mise-en-forme Open-office Libre office Dernière version, Apache, Ms office, office web, mise en page, Word et excel, Base de données, Suites bureautiques, développeurs
+    <p> cloud, mac, microsoft office, Openoffice, traitement de texte, apps, tableur, présentations, suite bureautique, LibreOffice macos Package Bureautiques, Compabilité, Suite microsoft, office, Sharepoint, Mise-en-forme, Open-office, Libre office, Dernière version, Apache, Ms office, office web, mise en page, Word et excel, Base de données, Suites bureautiques, développeurs, Suite bureautique gratuite, Outils bureautiques
+
+
     </p>
     <h3>deuxième H3</h3>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque placeat hic libero minima cupiditate. In,
-        pariatur voluptate dolores asperiores earum odio omnis veniam totam maxime, odit eos, aut minima deleniti.</p>
+    <p></p>
     <h2>TRoisième titre</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet dolorem fugit voluptas delectus ex illo fugiat,
-        accusantium eius quidem officiis. Nesciunt minima officia laborum ipsa architecto. Repudiandae eveniet quo
-        consequatur!</p>
+    <p></p>
 </body>
 
 </html>
