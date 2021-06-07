@@ -12,7 +12,7 @@
 
 <body>
 
-    <h1>Formation Office 365</h1>
+    <h1>Formation Office 365 - Comprendre tous les différents outils </h1>
     <h2>Bienvenue dans Office</h2>
     <p>Besoin de maitriser les outils <bold> office 365 </bold> ? Prenez le temps d'être accompagné par un expert de la suite Office
         365. </p>
