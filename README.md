@@ -1,4 +1,3 @@
-# test1
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -23,8 +22,7 @@
     <p>Découvrez nos formations Office 365, suivez les cours par métier, échangez avec un formateur en direct</p>
     <H2>Word, Excel, Powerpoint, OneNote, OneDrive, Outlook, Teams</H2>
     <h3>Bureautique</h3>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, possimus asperiores accusamus error odio
-        nesciunt labore harum eum, tempore tenetur debitis porro placeat mollitia vitae eius corporis magni illo beatae?
+    <p> cloud mac microsoft office Openoffice traitement de texte apps tableur présentations suite bureautique LibreOffice macos Package Bureautiques Compabilité Suite microsoft office Sharepoint Mise-en-forme Open-office Libre office Dernière version, Apache, Ms office, office web, mise en page, Word et excel, Base de données, Suites bureautiques, développeurs
     </p>
     <h3>deuxième H3</h3>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque placeat hic libero minima cupiditate. In,
