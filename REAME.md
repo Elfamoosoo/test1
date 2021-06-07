@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formations office 365. Formez vous sur la suite microsoft</title>
+    <meta name="description"
+        content="Office 365, la formation complète microsoft office 365. Découvrez l'utilisation de la suite office et des différentes applications.">
+</head>
+
+<body>
+
+    <h1>Formation Office 365</h1>
+    <h2>Bienvenue dans Office</h2>
+    <p>Besoin de maitriser les outils <bold> office 365 </bold> ? Prenez le temps d'être accompagné par un expert de la suite Office
+        365. </p>
+    <p>
+        Votre espace pour la création, la communication, la collaboration et l’accomplissement de vos tâches.
+    </p>
+    <p>Découvrez nos formations Office 365, suivez les cours par métier, échangez avec un formateur en direct</p>
+    <H2>Word, Excel, Powerpoint, OneNote, OneDrive, Outlook, Teams</H2>
+    <h3>Bureautique</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, possimus asperiores accusamus error odio
+        nesciunt labore harum eum, tempore tenetur debitis porro placeat mollitia vitae eius corporis magni illo beatae?
+    </p>
+    <h3>deuxième H3</h3>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque placeat hic libero minima cupiditate. In,
+        pariatur voluptate dolores asperiores earum odio omnis veniam totam maxime, odit eos, aut minima deleniti.</p>
+    <h2>TRoisième titre</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet dolorem fugit voluptas delectus ex illo fugiat,
+        accusantium eius quidem officiis. Nesciunt minima officia laborum ipsa architecto. Repudiandae eveniet quo
+        consequatur!</p>
+</body>
+
+</html>
